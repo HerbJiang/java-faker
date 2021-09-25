@@ -1,5 +1,8 @@
-Java Faker
-==========
+
+Java Faker (台灣版）
+==================
+
+基於台灣的身份證字號、電話跟地址格式稍微優化了一下  
 
 [![Maven Status](https://maven-badges.herokuapp.com/maven-central/com.github.javafaker/javafaker/badge.svg?style=flat)](http://mvnrepository.com/artifact/com.github.javafaker/javafaker)
 [![Build Status](https://travis-ci.org/DiUS/java-faker.svg?branch=master)](https://travis-ci.org/DiUS/java-faker)
